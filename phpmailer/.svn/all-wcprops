@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mailtics/!svn/ver/2/trunk/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/LICENSE
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/ChangeLog.txt
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/.htaccess
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/class.phpmailer.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/2/trunk/phpmailer/class.smtp.php
+END

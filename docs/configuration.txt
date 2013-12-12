@@ -1,0 +1,9 @@
+configuration.txt
+
+Author: vijay
+
+1. Configure postfix with mbox support, dovecot (for imap access)
+
+2. create bounce handling accounts bounces1, ... and be accessible by apache user. chmod 644 /var/mail/bounces1
+
+3. Use the same config.php file and change it accordingly for each account. Should have a config screen rather.

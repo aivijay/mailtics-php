@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mailtics/!svn/ver/2/trunk/lan/de
+END
+send.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mailtics/!svn/ver/2/trunk/lan/de/send.php
+END
+members.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/members.php
+END
+import1.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/import1.php
+END
+import2.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/import2.php
+END
+import3.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/import3.php
+END
+processbounces.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/lan/de/processbounces.php
+END
+uclicks.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/uclicks.php
+END
+import4.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/import4.php
+END
+userhistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/lan/de/userhistory.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/users.php
+END
+spageedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/lan/de/spageedit.php
+END
+viewtemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/lan/de/viewtemplate.php
+END
+getrss.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/getrss.php
+END
+messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/messages.php
+END
+userclicks.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/lan/de/userclicks.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/login.php
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mailtics/!svn/ver/2/trunk/lan/de/list.php
+END
+dlusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/dlusers.php
+END
+bouncemgt.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/lan/de/bouncemgt.php
+END
+reconcileusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/lan/de/reconcileusers.php
+END
+bouncerules.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/lan/de/bouncerules.php
+END
+domainstats.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/lan/de/domainstats.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/admin.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/common.php
+END
+initialise.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/lan/de/initialise.php
+END
+editattributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/lan/de/editattributes.php
+END
+bounces.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/bounces.php
+END
+templates.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/lan/de/templates.php
+END
+adminattributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/2/trunk/lan/de/adminattributes.php
+END
+spage.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/spage.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/setup.php
+END
+generatebouncerules.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/2/trunk/lan/de/generatebouncerules.php
+END
+pagetitles.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/lan/de/pagetitles.php
+END
+bouncerule.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/lan/de/bouncerule.php
+END
+statsmgt.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/statsmgt.php
+END
+defaults.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/defaults.php
+END
+about.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/lan/de/about.php
+END
+mviews.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/mviews.php
+END
+admins.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/admins.php
+END
+bounce.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/bounce.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/template.php
+END
+usercheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/lan/de/usercheck.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mailtics/!svn/ver/2/trunk/lan/de/user.php
+END
+frontend.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/frontend.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mailtics/!svn/ver/2/trunk/lan/de/export.php
+END
+editlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/editlist.php
+END
+configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/lan/de/configure.php
+END
+importadmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/lan/de/importadmin.php
+END
+eventlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/2/trunk/lan/de/eventlog.php
+END
+processqueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/lan/de/processqueue.php
+END
+checkbouncerules.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mailtics/!svn/ver/2/trunk/lan/de/checkbouncerules.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/message.php
+END
+mclicks.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/mclicks.php
+END
+attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/lan/de/attributes.php
+END
+usermgt.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/lan/de/usermgt.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mailtics/!svn/ver/2/trunk/lan/de/home.php
+END

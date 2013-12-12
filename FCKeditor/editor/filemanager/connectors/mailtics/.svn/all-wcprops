@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics
+END
+connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/connector.php
+END
+basexml.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/basexml.php
+END
+phpcompat.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/phpcompat.php
+END
+util.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/util.php
+END
+commands.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/commands.php
+END
+configold.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/configold.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/upload.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/config.php
+END
+io.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mailtics/!svn/ver/2/trunk/FCKeditor/editor/filemanager/connectors/mailtics/io.php
+END

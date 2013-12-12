@@ -1,0 +1,127 @@
+input {
+  /*color: #781351;*/
+  color: black;
+  /*background: #fee3ad;*/
+  background: #e0ebfe;
+  /*border: 1px solid #781351;*/
+  border: 1px solid #2e6e9e;
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+}
+
+select {
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+  border: 1px solid #2e6e9e;
+  
+}
+
+textarea {
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+  color: black;
+  border: 1px solid #2e6e9e;
+  width: 100%;
+}
+
+
+.even_row {
+	background-color: white;
+}
+
+.odd_row {
+	background-color: #b9defd;
+}
+
+.table_header_bg {
+	background-color: #9ec3e3;
+	font-family: arial, helvetica, verdana;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.title1 {
+  font-family: arial, helvetica, verdana;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+a.link_mt1:link {color: #000000; font-weight: normal; font-size: 12px; font-family: arial, helvetica, verdana; text-decoration: none;}
+a.link_mt1:active {color: #6a6b6b; font-weight: normal; font-size: 12px; font-family: arial, helvetica, verdana; text-decoration: none;}
+a.link_mt1:visited {color: #000000; font-weight: normal; font-size: 12px; font-family: arial, helvetica, verdana; text-decoration: none;}
+a.link_mt1:hover {color: #6a6b6b; font-weight: normal; font-size: 12px; font-family: arial, helvetica, verdana; text-decoration: underline;}       
+
+#bold_txt {
+	font-weight: bold;
+}
+
+#loading {
+	font-family: arial, helvetica, verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: red;
+}
+
+.poop {
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+  font-weight: bold;
+  color: red;
+} 
+
+#mt_content_main {
+  width: 100%;
+  font-size: 12px;
+  border: 1px solid red;
+  height: 1200px;
+}
+
+.header-banner-txt1 {
+  font-family: arial, helvetica, verdana;
+  font-size: 44px;
+  font-weight: bold;
+  display: inline;
+}
+.mailtics-banner-txt {
+  font-family: arial, helvetica, verdana;
+  font-size: 54px;
+  font-weight: bold;
+}
+
+.send-emails {
+  font-family: arial, helvetica, verdana;
+  font-size: 54px;
+  font-weight: bold;
+  display: inline;
+  color: #db2125;
+}
+
+.sub-headings {
+  font-family: arial, helvetica, verdana;
+  font-size: 24px;
+  font-weight: bold;
+  display: inline;
+    color: #bdbbcd;
+}
+
+.login-txt {
+  font-family: arial, helvetica, verdana;
+  font-size: 14px;
+}
+
+.content-txt {
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+}
+
+.general {
+  font-family: arial, helvetica, verdana;
+  font-size: 12px;
+
+}
+
+.mailtics-left-img {
+  height: 450px;
+  width: 250px;
+  background: url("../images/mailtics-icon-main.png") no-repeat;
+}

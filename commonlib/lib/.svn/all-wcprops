@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mailtics/!svn/ver/50/trunk/commonlib/lib
+END
+maillib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/maillib.php
+END
+unregister_globals.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/unregister_globals.php
+END
+debuglib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/debuglib.php
+END
+accesscheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/accesscheck.php
+END
+errorlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/errorlib.php
+END
+magic_quotes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/magic_quotes.php
+END
+oldphp_vars.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/oldphp_vars.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/.htaccess
+END
+userlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/userlib.php
+END
+Sajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/commonlib/lib/Sajax.php
+END
+interfacelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mailtics/!svn/ver/50/trunk/commonlib/lib/interfacelib.php
+END

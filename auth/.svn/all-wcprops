@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/mailtics/!svn/ver/2/trunk/auth
+END
+mailtics_auth.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/auth/mailtics_auth.inc
+END

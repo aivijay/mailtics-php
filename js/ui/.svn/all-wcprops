@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mailtics/!svn/ver/51/trunk/js/ui
+END
+jquery.ui.datepicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.datepicker.js
+END
+jquery.ui.sortable.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.sortable.js
+END
+jquery-ui-1.7.2.custom.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mailtics/!svn/ver/2/trunk/js/ui/jquery-ui-1.7.2.custom.js
+END
+ui.accordion.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.accordion.js
+END
+effects.explode.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.explode.js
+END
+jquery.effects.transfer.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.transfer.js
+END
+jquery.ui.core.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.core.js
+END
+jquery.effects.clip.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.clip.js
+END
+jquery.effects.scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.scale.js
+END
+jquery.ui.progressbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.progressbar.js
+END
+jquery.ui.tabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.tabs.js
+END
+jquery.effects.core.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.core.js
+END
+jquery.effects.blind.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.blind.js
+END
+jquery.effects.shake.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.shake.js
+END
+ui.sortable.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.sortable.js
+END
+ui.datepicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.datepicker.js
+END
+jquery.ui.dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.dialog.js
+END
+jquery-ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery-ui.js
+END
+jquery.ui.autocomplete.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.autocomplete.js
+END
+jquery.effects.slide.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.slide.js
+END
+jquery.ui.selectable.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.selectable.js
+END
+jquery.effects.drop.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.drop.js
+END
+jquery.ui.droppable.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.droppable.js
+END
+jquery.ui.draggable.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.draggable.js
+END
+effects.transfer.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.transfer.js
+END
+jquery.effects.highlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.highlight.js
+END
+ui.core.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.core.js
+END
+effects.scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.scale.js
+END
+effects.clip.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.clip.js
+END
+ui.progressbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.progressbar.js
+END
+ui.tabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.tabs.js
+END
+jquery.ui.button.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.button.js
+END
+effects.blind.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.blind.js
+END
+effects.core.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.core.js
+END
+jquery.effects.bounce.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.bounce.js
+END
+effects.shake.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.shake.js
+END
+jquery.effects.pulsate.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.pulsate.js
+END
+jquery.ui.resizable.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.resizable.js
+END
+ui.dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.dialog.js
+END
+jquery.ui.slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.slider.js
+END
+jquery.ui.widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.widget.js
+END
+effects.slide.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.slide.js
+END
+svn-commit.tmp~
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/51/trunk/js/ui/svn-commit.tmp~
+END
+ui.selectable.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.selectable.js
+END
+jquery.effects.fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.fold.js
+END
+effects.drop.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.drop.js
+END
+jquery.ui.mouse.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.mouse.js
+END
+ui.droppable.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.droppable.js
+END
+ui.draggable.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.draggable.js
+END
+effects.highlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.highlight.js
+END
+effects.bounce.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.bounce.js
+END
+effects.pulsate.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.pulsate.js
+END
+jquery.effects.fade.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.fade.js
+END
+jquery.ui.accordion.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.accordion.js
+END
+ui.resizable.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.resizable.js
+END
+jquery.effects.explode.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.effects.explode.js
+END
+ui.slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mailtics/!svn/ver/2/trunk/js/ui/ui.slider.js
+END
+jquery.ui.position.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mailtics/!svn/ver/51/trunk/js/ui/jquery.ui.position.js
+END
+effects.fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/js/ui/effects.fold.js
+END

@@ -1,0 +1,121 @@
+/*********************************************************************************************/
+/* jQuery AJAX Simple Tabs by developersnippets, This code is intended for practice purposes.*/
+/* You may use these functions as you wish, for commercial or non-commercial applications,   */
+/* but please note that the author offers no guarantees to their usefulness, suitability or  */
+/* correctness, and accepts no liability for any losses caused by their use.                 */
+/*********************************************************************************************/
+
+.container{
+  display: block;
+  padding:10px;
+/*  background-color:#dae6fa;*/
+}
+
+#tabmenu {
+  color: #000;
+  border-bottom: 1px solid black;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
+  padding-left: 10px;
+  font-family: arial, helvetica, verdana;
+  font-weight: bold;
+  }
+
+#tabmenu li {
+  display: inline;
+  overflow: hidden;
+  list-style-type: none;
+  font-weight: bold;
+  }
+
+#tabmenu a, a.active {
+  color: #000000 !important;
+  background: #e0ebfe;
+  font: normal 12px arial, helvetica,tahoma,verdana, Arial, sans-serif;
+  font-weight: bold;
+  border: 1px solid #666666;
+  border-bottom: none;
+  padding: 2px 5px 2px 5px;
+  margin: 0px;
+  text-decoration: none;
+  cursor:hand;
+  outline:none;
+  }
+
+#tabmenu a.active {
+  background: white;
+  border-bottom: 10px solid white;
+/*
+  background: #b2cbec;
+  border-bottom: 10px solid #b2cbec;
+  */
+  }
+
+#tabmenu a:hover {
+  color: #ffffff;
+  background: #b2cbec;
+  cursor:pointer;
+  font-family: arial, helvetica, verdana;
+  font-weight: bold;
+  }
+
+#tabmenu a:visited {
+  color: #E8E9BE;
+  }
+
+#tabmenu a.active:hover {
+  background: #7ba2d5;
+  color: #ffffff;
+  }
+
+#content {
+  font: 12px arial, verdana, sans-serif;
+  text-align: justify;
+  background: white;
+/*  background: #b2cbec;*/
+  padding: 20px;
+  border: 1px solid #666666;
+  border-top: none;
+  z-index: 2;
+  }
+
+#content a {
+  text-decoration: none;
+  color: #E8E9BE;
+  }
+
+#content a:hover {
+  background: #666666;
+  }
+  
+#content p{margin:10px 0px;}
+
+#content ol li{
+  font: 12px arial, helvetica, verdana, sans-serif;
+  font-weight: bold;
+  text-align: justify;
+  color: #000000;
+  margin-left:20px;
+}
+  
+#preloader {
+  position: absolute;
+  top: 145px;
+  left: 40px;
+  z-index: 100;
+  padding: 5px;
+  text-align: center;
+  background-color: #eaf4fd;
+  border: 2px solid #000000;
+  }
+#preloader1 {
+  position: absolute;
+  top: 125px;
+  left: 80px;
+  z-index: 100;
+  padding: 5px;
+  text-align: center;
+  background-color: #eaf4fd;
+  border: 2px solid red;
+  }

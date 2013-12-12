@@ -1,0 +1,78 @@
+.shader {
+  
+}
+
+.shaderfooter {
+  font-size : 11px;
+  background-color : #B0E0E6;
+  font-weight: bold;
+  text-align : left;
+  text-decoration : none;
+}
+.shaderheader {
+  font-size : 11px; 
+  color : black;
+  background-color : #B0E0E6;
+  font-weight: bold;
+  text-align : left; 
+  text-decoration : none; 
+  padding: 2px;
+  vertical-align : top; 
+  padding-left : 3px;
+}
+.shaderfootertexthidden {
+  font-size : 11px;
+  color : black;
+  background-color : #B0E0E6;
+  font-weight: bold;
+  text-align : left;
+  text-decoration : none;
+  padding: 0px;
+  vertical-align : top;
+  padding-left : 3px;
+  visibility: hidden;
+}
+
+.shaderfootertextvisible {
+  font-size : 11px;
+  color : black;
+  background-color : #B0E0E6;
+  font-weight: bold;
+  text-align : left;
+  text-decoration : none;
+  padding: 0px;
+  vertical-align : top;
+  padding-left : 3px;
+  visibility: visible;
+}
+
+.shaderfooterright {
+  background-color:#B0E0E6;
+  text-align : right;
+  text-decoration : none;
+}
+.shaderdivider {
+  background-color:#B0E0E6;  
+  border:1px solid #B0E0E6;
+
+
+}
+.shaderborder {
+  background-color:#B0E0E6;
+}
+.shaderborderright {
+  background-color:#B0E0E6;
+  text-align : right;
+  text-decoration : none;
+}
+.shadersmall {
+  font-family:"MS Sans Serif",Geneva,sans-serif;
+  font-size:10px;
+  text-decoration:none;
+}
+
+.shadersmallnavtext {
+  font-family:"MS Sans Serif",Geneva,sans-serif;
+  font-size:10px;
+  text-decoration:none;
+}

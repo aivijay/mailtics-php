@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/mailtics/!svn/ver/2/trunk/sql
+END
+mailtics.sql.changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mailtics/!svn/ver/2/trunk/sql/mailtics.sql.changes.txt
+END
+mailtics.core.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mailtics/!svn/ver/2/trunk/sql/mailtics.core.sql
+END

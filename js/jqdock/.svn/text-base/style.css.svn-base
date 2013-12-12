@@ -1,0 +1,114 @@
+  html, body {width:100%, height:100%;}
+/*give menu5 a black background...*/
+  body {padding:0px; margin:0px; font-family:arial; font-size:14px; background:#ffffff url(../images/black.gif) repeat-y;}
+  a, a:link, a:visited, a:hover, a:active {color:#0000ff; text-decoration:none;}
+  #page {height:100%;}
+  #eop {position:absolute; top:610px; left:0px; font-size: 11px;}
+  #pagetitle {clear:left; padding-top:20px; margin-top:0px;}
+
+/*I am hiding all demo menus...*/
+  .demo {display:none;}
+/*...but I could have left them visible and set all image sizes to a standard 48px...*/
+  .demo img {border:0px none; padding:0px; width:48px; height:48px; vertical-align:top;}
+
+/*page switching buttons...*/
+  #buttons {padding-top:3px;}
+  #buttons input {margin-left:6px; border:1px solid #808080; font-size:12px;}
+/*shadowbox links/buttons...*/
+  #sboxbuttons {margin-top:3px;}
+  #sboxbuttons ul {list-style-type:none; padding:0px; margin:0px;}
+  #sboxbuttons li {float:left; padding:0px 0px 0px 6px; margin:0px;}
+  #goDownload, a.sboxbtn {display:block; border:1px solid #808080; font-size:12px; padding:1px 6px;}
+  #goDownload {border:1px solid #ffffff;}
+  #goDownload:hover {text-decoration:underline;}
+
+/*shadowbox content styling...*/
+  #shadowbox_content.html {color:#333333; font-family:arial; font-size:12px;}
+  #shadowbox_other_pages {position:absolute; top:10px; right:10px;}
+  #shadowbox_other_pages .sboxbtn {float:left; margin-left:6px;}
+  #shadowbox_other_pages .jqDkV {float:left; color:#0000ff; font-size:14px; padding-top:1px; font-weight:bold;}
+  div.sbox {padding:0px 10px 10px 10px;}
+  div.sbox pre {padding:4px; margin:0px; background-color:#ffffff; border:1px solid #999999; font-family:Courier New, Courier, monospace; font-size:11px;}
+/*general...*/
+  .hideThis {display:none;}
+  .inset200 {padding-left:200px;}
+  .inset130 {padding-left:130px;}
+  .changesList, .optionsList, .faqslist, .faqslist ul {padding-left:8px; margin-left:8px;}
+  .optionsList li, .faqslist li {padding-bottom:9px;}
+  .faqslist ul li {padding-bottom:2px;}
+  .grey {color:#999999;}
+  .dgrey {color:#666666;}
+  .red {color:#ff0000;}
+  .small {font-size:12px;}
+  .transformAdd {color:#0000ff;}
+  .transformAddV {color:#9900cc;}
+  .transformAddL {color:#009900;}
+  .transformRemove {color:#ff0000;}
+
+/***************************
+**  JQDOCK : EXAMPLE CSS  **
+***************************/
+/*place the various demo menus around the screen (note: 1, 3, 4 and 7 are horizontal; 2, 5 and 6 are vertical)...*/
+ /* #menu1 {position:relative; top:100px; padding-left:131px;}*/
+  #menu1 {
+    position: fixed;
+    margin: 0 auto;
+    top: 50px;
+    left: 37.5%;
+    min-width: 20px;
+    max-width: 400px;
+    z-index: 9999;
+  }
+  /*...menu2 needs enough width to show the shrunken images + border, because it's positioned fully to the right...*/
+  #menu2 {position:absolute; top:0px; right:0px; width:50px;}
+  #menu3 {position:relative; top:152px; padding-left:131px;}
+  #menu4 {position:absolute; top:510px; left:131px;}
+  /*if you want to space the images out you can pad them, BUT...
+    (a) be aware that for any coefficient other than 1 (linear) this can (will) throw out calculation of the leading edge of the menu
+    (b) use a DOCTYPE, otherwise IE will get the spacing wrong
+	 (c) Opera v9.5 sometimes has problems with the main axis dimension that I haven't managed to solve yet
+    for example...*/
+  #menu4 img {padding:0px 4px;}
+  #menu5 {position:absolute; top:0px; left:0px;}
+  /*...menu6 has zero width, so it's actually the left-hand side of the dock that is 200px from the right-hand edge of the viewport...*/
+  #menu6 {position:absolute; top:30px; right:200px; width:0px;}
+  #menu7 {display:none; position:absolute; top:150px; left:580px;}
+
+/*dock styling...*/
+/*docks (div.jqDock) get absolute position, zero padding and margin, and visible overflow; width and height are calculated*/
+  /*...set a default dock background colour...*/
+  div.jqDock {background-color:transparent;}
+  /*...override background colour and/or border for specific demo docks...*/
+  #menu2 div.jqDock {border:2px solid #999999; border-right:0px none;}
+  #menu3 div.jqDock {border:2px solid #ff9900;}
+  #menu4 div.jqDock {background-color:#cccccc; border:1px solid #000000;}
+  #menu5 div.jqDock {background-color:#000000;}
+  #menu6 div.jqDock {background-color:#e0e0ff; border:3px solid #0000ff;}
+  #menu7 div.jqDock {border:1px solid #0000cc;}
+
+/*label styling...*/
+/*labels (div.jqDockLabel) only get absolute position and zero margin (with top and left being calculated); the rest is up to you*/
+  /*...let's set some defaults...*/
+  div.jqDockLabel {border:0px none; padding:0px 4px; font-weight:bold; font-size:14px; font-style:italic; white-space:nowrap; color:#000000; background-color:transparent;}
+  div.jqDockLabelLink {cursor:pointer;}
+  div.jqDockLabelImage {cursor:default;}
+  /*...and some overrides...*/
+  /*...give the right-hand vertical a smaller, non-bold, deep red label, on a white background...*/
+  #menu2 div.jqDockLabel {color:#cc0000; background-color:#ffffff; padding:1px; font-size:12px; font-weight:normal;}
+  /*...and the left-hand vertical (with the black background) a white, smaller, label...*/
+  #menu5 div.jqDockLabel {color:#ffffff; padding:0px;}
+
+#dock{
+  position: fixed;
+  margin: 0 auto;
+  bottom: 56px;
+  left: 37.5%;
+  min-width: 20px;
+  max-width: 400px;
+  z-index: 9999;
+}
+
+#dock img{
+  float: left;
+}
+

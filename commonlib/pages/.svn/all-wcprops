@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/user.php
+END
+userhistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/userhistory.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/users.php
+END
+dbcheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/dbcheck.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/.htaccess
+END
+attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/attributes.php
+END
+importcsv.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/importcsv.php
+END
+usermgt.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mailtics/!svn/ver/2/trunk/commonlib/pages/usermgt.php
+END
