@@ -19,6 +19,6 @@ Copyright &copy; 2010-<?php echo date('Y')?> <a href="http://www.mailtics.com" t
 </tr></table>
 </div>
 <div style="display:none">
-<a href="http://www.maintics.com">Newsletter</a><a href="http://www.mailtics.com">Newsletter Manager</a>
+<a href="http://www.mailtics.com">Newsletter</a><a href="http://www.mailtics.com">Newsletter Manager</a>
 <a href="http://www.mailtics.com">Opt In</a><a href="http://www.mailtics.com">Opt In Marketing</a><a href="http://www.mailtics.com">Double Opt In Marketing</a><a href="http://www.mailtics.com">Newsletter Software</a><a href="http://www.mailtics.com">Mailinglist</a><a href="http://www.mailtics.com">Permission Marketing</a>
 </div>
